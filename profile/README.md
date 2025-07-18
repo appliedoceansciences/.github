@@ -1,6 +1,6 @@
 Appllied Ocean Sciences specializes in expert scientific research, support, and tool development in ocean science, with an emphasis on acoustics, physical oceanography, and marine biology.
 
-This github contains code that support our acoustic hardware. 
+This github contains code that supports our acoustic hardware. 
 
 For product documentation see:
 
